@@ -1,3 +1,8 @@
+---
+title: Hexo 博客搭建并发布到云服务器
+tags: CICD
+category: 技术
+---
 ### 一.本地计算机搭建Hexo 环境
 
 #### 1.安装node.js
